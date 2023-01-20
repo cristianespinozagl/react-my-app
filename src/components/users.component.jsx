@@ -9,4 +9,12 @@ const Users = () => {
   );
 };
 
+const hola = () => {
+  return (
+    <div className="user-container">
+      <h1>Hola</h1>
+    </div>
+  );
+};
+
 export default Users;
