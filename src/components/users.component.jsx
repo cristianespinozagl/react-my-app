@@ -4,8 +4,9 @@ const Users = () => {
       <h1>Hola desde el UsersComponent</h1>
       <p>hola mundo</p>
       <p>Hello word</p>
+      <h3>Hola Mati</h3>
     </div>
   );
 };
 
-export default Users;
+export default Users;git
