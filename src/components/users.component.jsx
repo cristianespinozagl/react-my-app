@@ -1,7 +1,8 @@
 const Users = () => {
   return (
     <div>
-      Hola desde el UsersComponent
+      <h1>Hola desde el UsersComponent</h1>
+      <p>hola mundo</p>
     </div>
   );
 };
